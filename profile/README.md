@@ -5,7 +5,7 @@
 [TerminusDB](https://terminusdb.com/) is a place for people who dream in technicolor. We care about how people curate, manage and store *their* data. TerminusDB and the community of Terminators is home to some of the most off-beat, hardworking, and creative engineers in the world. We cherish the oddballs, we are the oddballs.
 
 
-TerminusDB is an open source knowledge graph and document store. Use it to build versioned data products. TerminusX is a collaborative document graph built in the cloud. Use it to build a vibrant ecosystem of domain data products. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). We also provide a [document API](https://github.com/terminusdb/terminusdb-docs/blob/beta/reference/DOCUMENT.md) for building via the JSON exchange format.  
+TerminusDB is an open source knowledge graph and document store. Use it to build versioned data products. TerminusX is a collaborative document graph built in the cloud. Use it to build a vibrant ecosystem of domain data products. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). We also provide a [document API](https://docs.terminusdb.com/v10.0/#/reference/reference-document-interface) for building via the JSON exchange format.  
 
 The convenience of documents with the power of a knowledge graph.
 

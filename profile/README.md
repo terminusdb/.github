@@ -1,5 +1,5 @@
 
-<img src="https://assets.terminusdb.com/images/GitHub-Header-Image.png" width="100%" height="50%" />
+<img src="https://assets.terminusdb.com/images/github-header-image-v2.png" width="100%" height="50%" />
 
 
 [TerminusDB](https://terminusdb.com/) is a place for people who dream in technicolor. We care about how people curate, manage and store *their* data. TerminusDB and the community of Terminators is home to some of the most off-beat, hardworking, and creative engineers in the world. We cherish the oddballs, we are the oddballs.

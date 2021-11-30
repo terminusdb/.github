@@ -1,13 +1,9 @@
+<p align="center">
+<a href="https://terminusdb.com/"><img src="https://assets.terminusdb.com/images/github-header-image-v2.png" width="75%" height="25%" /></a>
 
-<a href="https://terminusdb.com/"><img src="https://assets.terminusdb.com/images/github-header-image-v2.png" width="100%" height="50%" /></a>
+[TerminusDB](https://terminusdb.com/) is a **toolkit for building collaborative applications**. TerminusDB is an open source document-oriented graph database and document store. TerminusDB allows you to link JSON documents in a powerful knowledge graph all through a simple [document API](https://terminusdb.com/docs/v10.0/#/reference/reference-document-interface). 
 
+TerminusX is managed cloud service powered by TerminusDB. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). 
 
-[TerminusDB](https://terminusdb.com/) is a place for people who dream in technicolor. We care about how people curate, manage and store *their* data. TerminusDB and the community of Terminators is home to some of the most off-beat, hardworking, and creative engineers in the world. We cherish the oddballs, we are the oddballs.
-
-
-TerminusDB is an open source knowledge graph and document store. Use it to build versioned data products. TerminusX is a collaborative document graph built in the cloud. Use it to build a vibrant ecosystem of domain data products. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). We also provide a [document API](https://docs.terminusdb.com/v10.0/#/reference/reference-document-interface) for building via the JSON exchange format.  
-
-The convenience of documents with the power of a knowledge graph.
-
-Check out our [Roadmap](https://github.com/orgs/terminusdb/projects/2); have a look at our [Issue Triage](https://github.com/orgs/terminusdb/projects/3); leave a new [Issue](https://github.com/terminusdb/terminusdb/issues); submit a [Pull Request](https://github.com/terminusdb/terminusdb/blob/main/docs/CONTRIBUTING.md); or come hang out with us on [Discord](https://discord.gg/yTJKAma) 🚀
+Check out our [Roadmap](https://github.com/orgs/terminusdb/projects/2); have a look at our [Issue Triage](https://github.com/orgs/terminusdb/projects/3); leave a new [Issue](https://github.com/terminusdb/terminusdb/issues); submit a [Pull Request](https://github.com/terminusdb/terminusdb/blob/main/docs/CONTRIBUTING.md); or come hang on [Discord](https://discord.gg/yTJKAma) 🚀
 

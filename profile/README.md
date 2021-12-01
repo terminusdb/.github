@@ -3,7 +3,7 @@
 
 [TerminusDB](https://terminusdb.com/) is a **toolkit for building collaborative applications**. TerminusDB is an open source document-oriented graph database and document store. TerminusDB allows you to link JSON documents in a powerful knowledge graph all through a simple [document API](https://terminusdb.com/docs/v10.0/#/reference/reference-document-interface). 
 
-TerminusX is managed cloud service powered by TerminusDB. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). 
+TerminusX is a managed cloud service powered by TerminusDB. TerminusX is in **public beta** and you can [signup now](https://dashboard.terminusdb.com/). 
 
 Check out our [Roadmap](https://github.com/orgs/terminusdb/projects/2); have a look at our [Issue Triage](https://github.com/orgs/terminusdb/projects/3); leave a new [Issue](https://github.com/terminusdb/terminusdb/issues); submit a [Pull Request](https://github.com/terminusdb/terminusdb/blob/main/docs/CONTRIBUTING.md); or come hang on [Discord](https://discord.gg/yTJKAma) 🚀
 
